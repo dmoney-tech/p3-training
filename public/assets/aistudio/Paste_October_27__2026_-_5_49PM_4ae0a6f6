@@ -1,0 +1,1113 @@
+# MASTER PROMPT — EXACT VISUAL RECREATION OF THE P3 TRAINING WEBSITE
+
+## ROLE AND MAIN OBJECTIVE
+
+Act as a world-class UI/UX designer, senior frontend developer, website reconstruction specialist, and visual design engineer.
+
+Your task is to build a complete, professional, responsive, functional website for **P3 Training — Real Estate in SA**, using the attached full-page website design image as the primary visual specification.
+
+The attached image shows the exact visual design that must be recreated. Study the entire image carefully before writing any code.
+
+**The objective is to reproduce the attached website design as closely as technically possible, not to create another design inspired by it.**
+
+Match the reference image's overall appearance, including the page structure, section order, proportions, colours, typography, image positioning, text alignment, spacing, cards, icons, buttons, borders, backgrounds, navigation, and footer.
+
+Do not simplify the design. Do not replace its sections with a generic template. Do not invent a different layout. Do not change the brand identity. Do not introduce unnecessary sections. Do not make creative changes that move the result away from the supplied image.
+
+The supplied image takes priority over your default design preferences.
+
+Build the actual working website rather than returning a mockup, explanation, wireframe, or static screenshot.
+
+If an existing project is open, inspect it first and make the required changes within the existing project. Preserve useful existing functionality, but ensure the rendered website follows the supplied design.
+
+---
+
+## 1. EXACT VISUAL DIRECTION
+
+Recreate the premium corporate aesthetic shown in the attached reference.
+
+The website represents a professional training and business systems company that serves South African real estate professionals.
+
+The design combines a clean white navigation bar, a cinematic navy hero with professional photography, spacious light-coloured content sections, a dark navy process section, teal calls to action, elegant service cards, educational video thumbnails, a final conversion section, and a deep navy footer.
+
+The design must look polished, credible, premium, modern, and commercially professional.
+
+### Exact colour direction
+
+Use the following colours as the core design tokens:
+
+- Primary midnight navy: #061D36
+- Secondary deep navy: #0B2B4B
+- Brand teal: #078A87
+- Bright teal accent: #16B8AC
+- White: #FFFFFF
+- Light background: #F5F8FA
+- Primary text: #172B3A
+- Secondary text: #586B7A
+- Border colour: #DCE5EB
+- Video play-button red: #FF3038
+
+Use navy for the hero overlays, the P3 approach section, the footer, and important structural areas.
+
+Use teal for primary buttons, highlighted headline text, small labels, icons, links, and visual accents.
+
+Use white and soft grey for the main content sections.
+
+Maintain strong contrast and the same restrained navy-and-teal colour balance visible in the reference image.
+
+Do not introduce purple, orange, bright yellow, pink, or unrelated colour schemes.
+
+### Typography
+
+Use Inter as the primary body font and Manrope for headings, or an equivalent modern sans-serif combination that closely reproduces the reference.
+
+Headings should be bold, clear, and dark navy on light backgrounds.
+
+Hero text should be white, with selected words highlighted in teal.
+
+Section labels should be small, uppercase, teal, and moderately letter-spaced.
+
+Body copy should be comfortably readable, with restrained line lengths and balanced line spacing.
+
+Navigation text should be compact, dark navy, and professionally weighted.
+
+Buttons should use bold, clear text.
+
+Do not use decorative serif fonts, cartoon fonts, excessively thin lettering, or extremely small body text.
+
+---
+
+## 2. PAGE STRUCTURE — FOLLOW THE IMAGE EXACTLY
+
+Recreate the website in this precise sequence:
+
+1. White navigation header.
+2. Cinematic hero section.
+3. Section 1: The Challenge — Why Most Agents Stay Stuck.
+4. Section 2: The P3 Approach — Turn Everyday Activities into Repeatable Business Systems.
+5. Section 3: Our Solutions — Training Programmes and Compliance Services.
+6. Section 4: Learn and Grow — Practical Insights for Property Professionals.
+7. Section 5: Take the Next Step — Fix the System. Stabilise the Results.
+8. Dark navy footer.
+
+The five numbered content sections must remain in the exact order above.
+
+Do not combine them, remove them, or rearrange them.
+
+The complete desktop homepage should have the same long, continuous composition and visual flow as the supplied full-page reference image.
+
+---
+
+## 3. HEADER — REPRODUCE THE TOP NAVIGATION
+
+Create a full-width white navigation header.
+
+It should be approximately 70–80 pixels high on desktop, with the brand at the left, navigation links across the centre, and a prominent training portal button on the right.
+
+### Left side: Brand identity
+
+Create a simple geometric house-and-lettermark icon in navy and teal.
+
+Place the icon beside the text:
+
+**P3 Training**
+
+Under it, in smaller text:
+
+Real Estate in SA
+
+The brand should use a compact, professional horizontal arrangement.
+
+Do not make the logo unnecessarily large.
+
+### Navigation links
+
+Reproduce these labels in this order:
+
+- Home
+- Training Programmes
+- Business Systems
+- Compliance Services
+- Resources
+- About
+- Contact
+
+Add a small search icon after the navigation links.
+
+The Home link should have a teal active indicator.
+
+Keep navigation spacing compact and aligned with the reference image.
+
+### Right-side button
+
+Create a teal button labelled:
+
+**Training Portal**
+
+Include a small white user or portal icon.
+
+Use white text, modest rounded corners, and a subtle hover effect.
+
+### Header behaviour
+
+Keep the desktop header horizontal.
+
+At tablet and mobile sizes, collapse the navigation into an accessible menu button and mobile navigation drawer.
+
+Ensure all links have real destinations or configurable routes.
+
+Do not allow the header to overlap the hero or create horizontal scrolling.
+
+---
+
+## 4. HERO SECTION — MATCH THE IMAGE CLOSELY
+
+Create a large, cinematic, edge-to-edge hero section directly below the header.
+
+Use a two-column composition with the text on the left and a professional photographic scene on the right.
+
+The hero should have a deep navy background and a dark overlay that allows the text to remain readable.
+
+The entire hero should feel premium and cinematic.
+
+### Hero image
+
+Use a realistic photograph or high-quality generated image depicting three South African Black professionals collaborating in a sophisticated contemporary office.
+
+Show two professionals working at a laptop with another professional standing beside them and discussing information.
+
+Include:
+
+- Contemporary glass-office architecture.
+- Natural daylight.
+- Professional business-casual clothing.
+- A laptop and documents.
+- Natural human expressions.
+- Realistic skin tones.
+- Refined corporate photography.
+- Deep navy and teal visual accents.
+
+Place the principal people in the right half of the composition.
+
+The left side must remain dark, uncluttered, and readable.
+
+Use a dark navy gradient overlay that blends the image into the text area.
+
+Do not use a residential property photograph as the main hero image.
+
+Do not insert a large text-bearing graphic into the hero image. All website text must be real HTML text.
+
+### Hero introductory label
+
+Display this small uppercase text:
+
+ESTABLISHED 2018 | SERVING 11,000+ PROPERTY PROFESSIONALS
+
+Use small white lettering with restrained tracking.
+
+### Main headline
+
+Reproduce the following headline, maintaining the line breaks as closely as possible:
+
+**Build a More Structured,**
+
+**Consistent and Profitable**
+
+**Property Business.**
+
+Make the phrase "Consistent and Profitable" bright teal.
+
+Keep the remaining headline text white.
+
+Use a heavy, modern sans-serif font with tight but readable line spacing.
+
+The headline must be the strongest element in the left column.
+
+### Supporting description
+
+Use this text:
+
+"P3 Training helps South African property professionals strengthen their business systems, improve listing and conversion processes, and implement practical compliance frameworks through structured training and support."
+
+Keep the paragraph within a readable maximum width.
+
+Use white or soft white text.
+
+### Hero buttons
+
+Place two buttons beside each other on desktop.
+
+Primary button:
+
+**Explore Training Programmes →**
+
+Use a bright teal background, white bold text, rounded corners, and balanced internal padding.
+
+Secondary button:
+
+**Explore Compliance Services**
+
+Use a transparent background, white text, a thin light border, and matching rounded corners.
+
+On mobile, stack the buttons where appropriate and make them easy to tap.
+
+### Trust indicators
+
+At the bottom of the hero, reproduce the four credibility indicators from the reference.
+
+Indicator 1:
+
+**11,000+**
+
+Property Professionals
+
+Use a people icon.
+
+Indicator 2:
+
+**Since 2018**
+
+Trusted by the Industry
+
+Use a rising chart or performance icon.
+
+Indicator 3:
+
+**Practical**
+
+Training & Support
+
+Use an education or graduation icon.
+
+Indicator 4:
+
+**South African**
+
+Property Focus
+
+Use a shield icon.
+
+Arrange them horizontally in four balanced groups on desktop.
+
+Use small white icons and concise text.
+
+Keep them integrated into the bottom of the hero rather than placing them in oversized floating cards.
+
+Only publish the numerical claims if verified and authorised by the business.
+
+---
+
+## 5. SECTION 1 — THE CHALLENGE
+
+Recreate the light-coloured section immediately beneath the hero.
+
+Use a very pale grey or white background with a spacious horizontal layout.
+
+On desktop, put the introductory text on the left and five compact problem cards across the remaining space.
+
+### Introductory label
+
+THE CHALLENGE
+
+Use small uppercase teal text.
+
+### Heading
+
+**Why Most Agents Stay Stuck**
+
+Use bold navy typography, approximately 28–34 pixels on desktop.
+
+### Description
+
+"Many property professionals work hard but still struggle to achieve consistent results. These common challenges can hold your business back."
+
+Place the paragraph beneath the heading with comfortable spacing.
+
+### Button
+
+**Understand the Problems →**
+
+Use a teal background and white bold text.
+
+### Five problem cards
+
+Create five aligned white cards with subtle borders, restrained shadows, rounded corners, and a circular pale teal icon background.
+
+All five cards should have consistent visual dimensions.
+
+Card 1:
+
+Title: **Inconsistent Listing Flow**
+
+Description: "Unstructured prospecting can make listings unpredictable."
+
+Icon: List or workflow icon.
+
+Card 2:
+
+Title: **Weak Follow-Up**
+
+Description: "Valuable opportunities often get lost."
+
+Icon: People or communication icon.
+
+Card 3:
+
+Title: **Poor Conversion Rates**
+
+Description: "Without a clear process, leads don't move forward."
+
+Icon: Chart or analytics icon.
+
+Card 4:
+
+Title: **Operational Gaps**
+
+Description: "Lack of systems can create inefficiency and confusion."
+
+Icon: Settings icon.
+
+Card 5:
+
+Title: **Compliance Risks**
+
+Description: "RMCP, PAIA and POPIA require proper processes and documentation."
+
+Icon: Shield or security icon.
+
+Keep each card's title and description compact and readable.
+
+On smaller screens, change the five-column arrangement to a two-column layout and eventually one column.
+
+Do not allow cards to become too narrow to read.
+
+---
+
+## 6. SECTION 2 — THE P3 APPROACH
+
+Create a full-width dark navy section directly after Section 1.
+
+This is the visual contrast section.
+
+Use a dark blue architectural photograph of a contemporary South African property or office building as a subdued background image.
+
+Apply a strong navy overlay so that all content remains highly legible.
+
+The building should be visible mostly towards the right side and in the background.
+
+Do not let the image compete with the content.
+
+### Section label
+
+THE P3 APPROACH
+
+Use small uppercase teal text.
+
+### Main heading
+
+**Turn Everyday Activities**
+
+**into Repeatable Business Systems.**
+
+Use bold white typography.
+
+### Supporting paragraph
+
+"P3 Training provides a structured approach to help you generate opportunities, improve conversion, organise your operations and strengthen compliance."
+
+Use readable white text beneath the heading.
+
+### Secondary button
+
+Place a teal button towards the right side of the heading area:
+
+**Learn More About Our Approach →**
+
+Make it compact and horizontally aligned with the introductory content on desktop.
+
+### Four business-system cards
+
+Place four equally sized cards horizontally in a single row on desktop.
+
+Connect them visually with right-pointing arrows between the cards.
+
+Use a mix of dark blue and teal card backgrounds, matching the reference image.
+
+Cards should have restrained rounded corners, white typography, and white icons.
+
+Card 1:
+
+Number: 1.
+
+Title: **Generate Opportunities**
+
+Description: "Structured prospecting and listing generation routines."
+
+Icon: Target icon.
+
+Card 2:
+
+Number: 2.
+
+Title: **Improve Conversion**
+
+Description: "Follow-up systems and practical conversion frameworks."
+
+Icon: People or communication icon.
+
+Card 3:
+
+Number: 3.
+
+Title: **Structure Operations**
+
+Description: "Clear workflows, accountability and better execution."
+
+Icon: Settings icon.
+
+Card 4:
+
+Number: 4.
+
+Title: **Strengthen Compliance**
+
+Description: "RMCP, PAIA and POPIA documentation and operational support."
+
+Icon: Shield icon.
+
+Position the icons near the top of each card.
+
+Use bold headings, followed by short descriptions.
+
+Make the third card teal, with the other cards using complementary dark navy and blue-green tones, as shown in the reference.
+
+On tablet and mobile, stack or wrap the cards cleanly and preserve the process sequence.
+
+---
+
+## 7. SECTION 3 — TRAINING PROGRAMMES AND COMPLIANCE SERVICES
+
+Return to a light background.
+
+Create a spacious white or very pale grey section with a small teal label above a large navy heading.
+
+### Section label
+
+OUR SOLUTIONS
+
+### Main heading
+
+**Training Programmes & Compliance Services**
+
+### Introductory text
+
+"Practical learning and operational support designed for South African property professionals."
+
+### Two large service cards
+
+Place two wide service cards side by side on desktop.
+
+They should have white backgrounds, subtle borders, restrained shadows, rounded corners, and enough internal spacing.
+
+Each card should combine a text area and a photographic area.
+
+Use approximately 55–60% of the width for text and the remainder for the image.
+
+#### LEFT CARD: TRAINING PROGRAMMES
+
+Place a teal square icon tile with a white training or checklist icon next to the title.
+
+Title:
+
+**Training Programmes**
+
+Description:
+
+"Develop the skills, systems and professional knowledge you need to grow a more consistent and profitable property business."
+
+Show four checklist items:
+
+- Listing generation systems
+- Conversion and follow-up strategies
+- Productivity and professional skills
+- Business structure and performance
+
+Use small teal check icons.
+
+Button:
+
+**View Training Programmes →**
+
+Use a teal background and white text.
+
+Image:
+
+A professional South African Black woman working on a laptop in a polished business environment.
+
+Position the image on the right side of the card, with a clean crop and subtle fade into the white content area where appropriate.
+
+#### RIGHT CARD: COMPLIANCE SERVICES
+
+Place a teal square icon tile containing a white shield icon beside the title.
+
+Title:
+
+**Compliance Services**
+
+Description:
+
+"Practical support for RMCP, PAIA and POPIA, aligned to your business operations."
+
+Show five checklist items:
+
+- RMCP development and implementation
+- PAIA manuals and operational alignment
+- POPIA documentation and processes
+- Evidence and record organisation
+- Inspection readiness support
+
+Button:
+
+**Enquire About Compliance Support →**
+
+Use a teal background and white text.
+
+Image:
+
+A professional still life of neatly organised documents, a clipboard, paperwork, a pen, and a subtle property-related decorative object in a bright modern office.
+
+Use a realistic photograph with natural lighting.
+
+### Layout requirements
+
+Ensure both cards look balanced.
+
+Keep their heading positions, text spacing, button placement, and image treatments consistent.
+
+Make the cards stack vertically on mobile.
+
+Do not use random image sizes or unequal card heights without a clear visual reason.
+
+---
+
+## 8. SECTION 4 — PRACTICAL INSIGHTS FOR PROPERTY PROFESSIONALS
+
+Create a clean, white educational resource section below the service cards.
+
+### Section label
+
+LEARN AND GROW
+
+### Heading
+
+**Practical Insights for Property Professionals**
+
+### Description
+
+"Explore our latest videos and resources to learn, improve and apply practical strategies in your business."
+
+At the upper right of the heading area, place a teal button:
+
+**View All Resources →**
+
+### Three educational video cards
+
+Display three equally sized cards in a horizontal desktop row.
+
+Each card should have:
+
+- A 16:9 photographic video thumbnail.
+- A centred red play button with a white triangle.
+- A small black duration badge in the lower-right corner.
+- A bold navy title beneath the image.
+- A concise grey description.
+- A small pale blue category tag.
+
+Use consistent thumbnail dimensions, image proportions, and content spacing.
+
+#### VIDEO CARD 1
+
+Title:
+
+**All Relationships Have One Law**
+
+Description:
+
+"Understand the key principle that influences every property relationship."
+
+Category:
+
+Relationships
+
+Duration badge:
+
+8:24
+
+Thumbnail direction:
+
+A professional male trainer in a blazer standing in a bright training room with a whiteboard in the background.
+
+#### VIDEO CARD 2
+
+Title:
+
+**4 Follow-Up Mistakes That Cost You Deals**
+
+Description:
+
+"Avoid common follow-up mistakes and keep more opportunities alive."
+
+Category:
+
+Sales & Conversion
+
+Duration badge:
+
+7:18
+
+Thumbnail direction:
+
+A professional woman working on a laptop in a modern office.
+
+#### VIDEO CARD 3
+
+Title:
+
+**5 Seller Pains and How to Address Them**
+
+Description:
+
+"Learn how to identify and address the real concerns of property sellers."
+
+Category:
+
+Listing Generation
+
+Duration badge:
+
+6:45
+
+Thumbnail direction:
+
+A professional male presenter discussing documents in a business setting.
+
+### Video functionality
+
+The play buttons must be interactive.
+
+If actual YouTube URLs are available, open the correct videos using those URLs or load the appropriate embedded player.
+
+If the actual video links are not available, use configurable video URL fields.
+
+Do not invent YouTube video IDs or misrepresent the images as thumbnails from specific existing videos.
+
+If the videos are not yet connected, make the development placeholders clearly configurable.
+
+Do not display a fake working player or falsely claim that a video has played.
+
+The resource cards should remain visually faithful to the supplied image, even when actual video URLs are unavailable.
+
+---
+
+## 9. SECTION 5 — FINAL CALL TO ACTION
+
+Create a wide, cinematic conversion section positioned immediately above the footer.
+
+Divide the section into two visual areas.
+
+The left side should feature a professional photograph of a modern contemporary building during warm evening light.
+
+The right side should use a deep navy background.
+
+The two areas should form a unified horizontal composition.
+
+Use a dark overlay over the image where necessary to maintain visual balance.
+
+### Section label
+
+TAKE THE NEXT STEP
+
+Use small uppercase teal text.
+
+### Main heading
+
+**Fix the System. Stabilise the Results.**
+
+Use bold white typography.
+
+### Supporting text
+
+"Whether you need training, a business system or compliance support, P3 Training can help you move forward with confidence."
+
+### Primary CTA
+
+**Explore Training Programmes**
+
+Use a teal background, white bold text, and rounded corners.
+
+### Secondary CTA
+
+**Contact Us**
+
+Use a transparent background, white text, and a thin white border.
+
+The two buttons should sit side by side on desktop.
+
+Stack them on small screens if necessary.
+
+The overall effect should be confident and premium, with a strong final conversion message.
+
+Do not add unrelated content to this section.
+
+---
+
+## 10. FOOTER — REPRODUCE THE DARK NAVY FOOTER
+
+Create a full-width deep navy footer directly beneath the final CTA section.
+
+Use white and muted light-blue text, teal accents, and subtle dividing lines.
+
+Arrange four columns on desktop.
+
+### Column 1: Brand
+
+Place the compact P3 Training house symbol and wordmark.
+
+Display:
+
+**P3 Training**
+
+Real Estate in SA
+
+Description:
+
+"Built from the Real Estate in SA Facebook Group community and delivered through P3 Training. Practical training, structured systems and compliance support for South African property professionals."
+
+Place small social media icons beneath the description.
+
+Use actual social profile URLs if available.
+
+Do not invent profile URLs.
+
+### Column 2: Quick Links
+
+Heading:
+
+Quick Links
+
+Links:
+
+- Home
+- Training Programmes
+- Business Systems
+- Compliance Services
+- Resources
+- About P3
+- Contact
+
+### Column 3: Services
+
+Heading:
+
+Services
+
+Links:
+
+- Training Programmes
+- Business Systems
+- RMCP Support
+- PAIA and POPIA
+- Compliance Information
+- Training Portal
+
+Ensure these links point to real pages or configurable destinations.
+
+### Column 4: Legal
+
+Heading:
+
+Legal
+
+Links:
+
+- Privacy Policy
+- Terms & Conditions
+- Disclaimer
+- Compliance Information
+
+Do not invent the final legal content. These pages must be created or connected to approved documents before production publication.
+
+### Footer bottom bar
+
+Add a thin, subtle horizontal border above the bottom copyright line.
+
+Display:
+
+"© 2026 P3 Training | Real Estate in SA. All rights reserved."
+
+At the right on desktop, display:
+
+"Built by P3 Training | Training Systems | A South African Property Training Platform"
+
+Keep footer typography compact but legible.
+
+On mobile, stack the footer columns vertically and preserve comfortable spacing.
+
+---
+
+## 11. EXACT SPACING AND VISUAL PROPORTIONS
+
+Treat the supplied image as the composition reference.
+
+At desktop widths, use the following general design rules:
+
+- Full-width page background.
+- A centred content container of approximately 1,200–1,400px maximum width, depending on viewport size.
+- Consistent horizontal content padding of approximately 32–48px.
+- Spacious section padding of approximately 48–72px.
+- A compact white header.
+- A large, cinematic hero.
+- A five-card challenge row.
+- A four-card business process row.
+- Two wide service cards.
+- Three educational resource cards.
+- A wide split-image final CTA.
+- A multi-column navy footer.
+
+These are responsive design guidelines, not reasons to alter the composition of the reference.
+
+Match the relative heights, image proportions, whitespace, and alignment of the provided image as closely as possible.
+
+Keep the content density similar to the reference.
+
+Avoid making the page unnecessarily long by adding extra sections or oversized spacing.
+
+Do not shrink everything to fit the entire page into one screen. The reference is a long full-page website, so reproduce the natural scrolling experience.
+
+---
+
+## 12. IMAGES AND ASSETS
+
+Use high-quality, realistic imagery that visually matches the reference.
+
+The principal visual themes are:
+
+1. South African professionals collaborating in a modern office.
+2. A contemporary property or business building used as a subtle background.
+3. A professional woman working on a laptop.
+4. A compliance document workspace.
+5. Three professional educational video thumbnails.
+6. A modern building at dusk for the closing CTA.
+
+Prioritise using the attached reference image as the visual source for image placement and cropping.
+
+Use actual supplied assets where available.
+
+When separate source photographs are not provided, use appropriate high-quality, legally usable photographs or image assets.
+
+Do not use unrelated images simply to fill space.
+
+Do not use generic luxury-house photographs for the entire website.
+
+Do not put text inside generated photographs.
+
+Do not generate fake logos, fake customer endorsements, or false certification badges.
+
+Use CSS overlays and gradients where the reference uses darkened imagery.
+
+If external image assets are used, provide stable image sources and useful fallback behaviour.
+
+All photographs must crop correctly within their containers.
+
+Use appropriate aspect ratios and responsive image behaviour to avoid layout shifts.
+
+---
+
+## 13. FUNCTIONALITY REQUIREMENTS
+
+The website must be a functioning implementation, not just a static visual.
+
+Implement:
+
+- Responsive desktop navigation.
+- Functional mobile menu.
+- Working in-page links or page routes.
+- Hover and focus states for all buttons and links.
+- Training programme navigation.
+- Business systems navigation.
+- Compliance services navigation.
+- Resource navigation.
+- Training portal link.
+- Search interaction if the search icon is retained.
+- Interactive video cards.
+- Accessible focus states.
+- Responsive cards and grids.
+- Back-to-top control if it fits the implementation.
+- A functional FAQ or other interaction only if needed by an actual page; do not add unnecessary homepage sections.
+- Proper browser scrolling.
+- Responsive images and layouts.
+
+Ensure every visible CTA has an appropriate action.
+
+If a destination is unknown, define a clearly identified configuration variable rather than inventing an external URL.
+
+Do not create dead buttons.
+
+Do not create fake login systems, fake course enrolments, fake payment flows, or false form submission success messages.
+
+If forms are added elsewhere in the application, connect them to an actual supported submission mechanism.
+
+---
+
+## 14. TECHNICAL IMPLEMENTATION
+
+Build the actual website in the Google AI Studio development environment.
+
+First inspect the existing environment, framework, project structure, and available assets.
+
+Use the environment's supported implementation approach.
+
+If the project uses React and TypeScript, build the site using reusable React components and properly organised styles.
+
+If a standalone HTML implementation is more appropriate, build a complete HTML, CSS, and JavaScript website.
+
+Do not introduce unnecessary frameworks just to complete the task.
+
+Create maintainable components for the header, buttons, challenge cards, process cards, solution cards, video cards, CTA, and footer.
+
+Use semantic HTML.
+
+Use an appropriate icon library or consistent SVG icons.
+
+Use real HTML text for all headings and descriptions.
+
+Use real buttons and links for interactive elements.
+
+Separate repeated content into structured data where appropriate.
+
+Do not place the entire application in one unnecessarily large component if a better component structure is supported.
+
+Do not leave broken imports, missing assets, empty click handlers, or incomplete code.
+
+The result must run within the supplied environment.
+
+---
+
+## 15. RESPONSIVE BEHAVIOUR
+
+The reference image primarily communicates a desktop composition, but the finished website must remain professional on mobile and tablet.
+
+At desktop size:
+
+- Retain the horizontal header.
+- Retain the large split hero.
+- Keep five challenge cards in a row when there is sufficient room.
+- Keep four process cards in a row when there is sufficient room.
+- Keep the two service cards side by side.
+- Keep three educational video cards in a row.
+- Keep the two-part CTA section.
+- Keep the multi-column footer.
+
+At tablet size:
+
+- Reduce content padding.
+- Adapt grids to two columns where necessary.
+- Prevent text and images from becoming crowded.
+- Keep CTA labels readable.
+
+At mobile size:
+
+- Use an accessible mobile menu.
+- Stack hero text and imagery sensibly.
+- Keep the headline readable.
+- Stack or wrap CTA buttons.
+- Display challenge and process cards in a readable grid.
+- Stack the two service cards.
+- Display educational content in a single column or a suitable compact grid.
+- Stack the final CTA composition.
+- Stack footer columns vertically.
+- Prevent horizontal scrolling and clipped content.
+
+The responsive version must remain faithful to the desktop design's colours, component styles, and hierarchy.
+
+---
+
+## 16. ACCESSIBILITY AND PERFORMANCE
+
+Use accessible colour contrast, semantic elements, keyboard navigation, descriptive link text, appropriate alternative text, and visible focus indicators.
+
+Respect users' reduced-motion preferences.
+
+Use restrained transitions rather than excessive animation.
+
+Optimise images and avoid unnecessary large dependencies.
+
+Load below-the-fold images lazily where appropriate.
+
+Avoid loading multiple full YouTube players at initial page load.
+
+Use efficient font loading.
+
+Prevent layout shifts by providing appropriate image dimensions or aspect ratios.
+
+The website must not autoplay videos with sound.
+
+---
+
+## 17. VISUAL VERIFICATION AND ITERATION
+
+After implementation, run the website and inspect the actual rendered output.
+
+Compare it directly with the supplied reference image.
+
+Check each section separately and then check the complete page from top to bottom.
+
+Verify:
+
+- Header height and alignment.
+- Logo position and size.
+- Hero image crop.
+- Hero text width and line breaks.
+- Headline colours.
+- CTA dimensions.
+- Trust indicator alignment.
+- Challenge card count and spacing.
+- Dark process section background.
+- Number and position of process cards.
+- Training and compliance card dimensions.
+- Educational thumbnail aspect ratios.
+- Red video play buttons.
+- Final CTA image-to-background split.
+- Footer column alignment.
+- Overall colours and typography.
+- Mobile responsiveness.
+
+If the rendered page differs from the supplied reference, adjust the code and inspect it again.
+
+Do not declare the implementation complete simply because the code compiles.
+
+Prioritise actual visual fidelity to the attached image.
+
+If a particular image or external URL is unavailable, use the closest appropriate asset and document the configurable replacement point. Do not invent a real source URL.
+
+---
+
+## 18. FINAL EXECUTION COMMAND
+
+Now implement the complete P3 Training website according to the attached reference image.
+
+**The attached image is the definitive visual target. Recreate that exact design and content structure as closely as possible. Do not redesign it into a different concept.**
+
+Build the complete header, hero, five main content sections, and footer.
+
+Preserve the reference image's visual identity: midnight navy, teal, white, professional South African business photography, prominent headline typography, elegant cards, clean spacing, subtle borders, and clear conversion buttons.
+
+Make the website fully responsive and implement the working interactions.
+
+Use real HTML text and functional controls rather than creating another static image.
+
+After building the website, run the application, inspect the rendered result, compare it with the reference, and correct visible mismatches wherever possible.
+
+Return the working website implementation in the Google AI Studio project, not merely an explanation of what you would build.
+
+**Final success criterion:** When the finished website is viewed and compared side by side with the attached reference image, its structure, design, colours, typography, section order, imagery, and overall visual composition should be immediately recognisable as the same website design.

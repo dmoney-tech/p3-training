@@ -1,0 +1,6 @@
+{
+  "name": "P3 Training | Real Estate in SA",
+  "description": "Build a More Structured, Consistent and Profitable Property Business. Training programmes, business systems, and compliance services for South African real estate professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
